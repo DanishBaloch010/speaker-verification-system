@@ -22,3 +22,10 @@ you can also collect you own dataset, the format of dataset is defined in a .csv
 
 ![image](https://user-images.githubusercontent.com/68731898/184070562-283e7afa-cc18-4b99-b070-de7ce6925981.png)
 
+# Future Scope:
+There is another notebook in this repo named as "speaker_verification_updated_features.ipynb" which have one additional feature extracted. 
+which is increasing the accuracy of the model.
+
+Thus you can extract more features from the audio using librosa module and might increase the accuracy of the model.
+
+There is also a tkinter GUI made inside the notebook. But it is not working great with live recorded audio.
