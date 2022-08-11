@@ -17,3 +17,8 @@ you can also collect you own dataset, the format of dataset is defined in a .csv
 
 
 ![Screenshot (1325)](https://user-images.githubusercontent.com/68731898/184070427-3c01874a-98d3-4530-bf36-36cdb4252b8d.png)
+
+# Block Diagram of Project
+
+![image](https://user-images.githubusercontent.com/68731898/184070562-283e7afa-cc18-4b99-b070-de7ce6925981.png)
+
