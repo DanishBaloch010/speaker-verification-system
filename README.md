@@ -7,6 +7,7 @@ we use 19 different human speeches. total each human have 102 voice. 101 are use
 we have collected our own dataset , extracted 40 mfcss from it and trained MLP. 
 you can also collect you own dataset, the format of dataset is defined in a .csv and also below screenshots show how dataset is arrranged in folders.
 
+## for class - 1 :
 ![Screenshot (1316)](https://user-images.githubusercontent.com/68731898/184070389-6c4d72b7-dd5d-402b-819b-0664e292d963.png)
 
 ![Screenshot (1317)](https://user-images.githubusercontent.com/68731898/184070398-a3f0700c-2b22-454a-860f-09eeb2cdbef4.png)
